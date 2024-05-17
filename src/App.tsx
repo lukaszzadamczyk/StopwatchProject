@@ -1,7 +1,5 @@
-import './App.css';
+import './App.scss';
 
-function App() {
+export function App() {
   return <></>;
 }
-
-export { App };
